@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, thanks for viewing my profile
+##I'm Pedro Augusto
+###I am starting my carrer at software devolpment, data analysis and SAP!
+
 
 <!--
 **PedroAugustoPadovani/PedroAugustoPadovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
