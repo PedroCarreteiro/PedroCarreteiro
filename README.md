@@ -1,8 +1,8 @@
-##I'm Pedro Augusto 
+## I'm Pedro Augusto 
 
-##Hello, thanks for viewing my profile
+## Hello, thanks for viewing my profile
 
-###I am starting my carrer at software devolpment, data analysis and SAP!
+### I am starting my carrer at software devolpment, data analysis and SAP!
 
 
 <!--
