@@ -1,5 +1,7 @@
 ## Hello, thanks for viewing my profile
+
 ##I'm Pedro Augusto
+
 ###I am starting my carrer at software devolpment, data analysis and SAP!
 
 
