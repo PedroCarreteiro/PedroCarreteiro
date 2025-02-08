@@ -1,6 +1,6 @@
 ## I'm Pedro Augusto 
 
-## Hello, thanks for viewing my profile
+## Thanks for viewing my profile!
 
 
 <!--**PedroAugustoPadovani/PedroAugustoPadovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
