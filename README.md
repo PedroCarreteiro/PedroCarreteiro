@@ -19,6 +19,7 @@
 
 
 <!--![PedroAugustoPadovani's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAugustoPadovani&show_icons=true&theme=tokyonight) -->
+
 ###
 
 <div align="center">
@@ -31,6 +32,7 @@
 
 <img src="https://raw.githubusercontent.com/PedroAugustoPadovani/PedroAugustoPadovani/output/snake.svg" alt="Snake animation" />
 
+###
 ### My social network
 <a href="https://www.linkedin.com/in/pedro-augusto-padovani-carreteiro-447917284/">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />        
