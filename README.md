@@ -8,6 +8,10 @@
 - 🔭 I’m currently working on Bosch Brasil, with systems develpment
 - 🌱 I’m currently learning about software develpment, data analysis and SAP
 
+![PedroAugustoPadovani's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAugustoPadovani&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugustoPadovani&layout=donut)](https://github.com/PedroAugustoPadovani/github-readme-stats)
+
 <div style="display: inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
