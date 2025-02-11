@@ -1,12 +1,12 @@
-## I'm Pedro Augusto 
+## I'm Pedro Carreteiro 
 
 ## Thanks for viewing my profile!
 
 
 <!--**PedroAugustoPadovani/PedroAugustoPadovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on Bosch Brasil, with systems develpment
-- 🌱 I’m currently learning about software develpment, data analysis and SAP
+- I’m actully working at Bosch Brasil, with systems development
+- Currently learning about software develpment, data analysis and SAP and other things!
 
 ![PedroAugustoPadovani's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAugustoPadovani&show_icons=true&theme=tokyonight)
 
