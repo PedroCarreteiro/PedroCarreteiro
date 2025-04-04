@@ -33,6 +33,6 @@
 
 ### -->
 ### My social network
-<a href="linkedin.com/in/pedro-carreteiro-447917284">
+<a href="https://www.linkedin.com/in/pedro-carreteiro-447917284">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />        
 </a>
