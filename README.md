@@ -28,11 +28,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroCarreteiro&radius=16&theme=nightowl&area=true&order=5&hide_border=true&hide_title=true" height="400" alt="activity-graph graph"  />
 </div>
 
-<!--###
 
-<img src="https://raw.githubusercontent.com/PedroAugustoPadovani/PedroAugustoPadovani/output/snake.svg" alt="Snake animation" />
 
-### -->
+<img src="https://raw.githubusercontent.com/PedroCarreteiro/PedroCarreteiro/output/snake.svg" alt="Snake animation" />
+
+
 ### My social network
 <a href="https://www.linkedin.com/in/pedro-carreteiro-447917284">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />        
