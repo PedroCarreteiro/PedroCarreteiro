@@ -30,7 +30,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/PedroCarreteiro/PedroCarreteiro/output/snake.svg" alt="Snake animation" />
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroCarreteiro/PedroCarreteiro/output/github-contribution-grid-snake.svg">
 
 
 ### My social network
