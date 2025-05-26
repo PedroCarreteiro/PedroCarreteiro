@@ -5,8 +5,8 @@
 
 <!--**PedroAugustoPadovani/PedroAugustoPadovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- I’m actully working at Bosch Brazil, with systems development
-- Currently learning about software develpment, data analysis, SAP and other things!
+- I'm currrently working at Bosch Brazil, with system development.
+- Always learning about software develpment, data analysis, SAP and other things!
 
 <br>
 
