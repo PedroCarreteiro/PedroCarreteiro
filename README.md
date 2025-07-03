@@ -25,18 +25,14 @@
           
 </div><br>
 
-
-<!--![PedroAugustoPadovani's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAugustoPadovani&show_icons=true&theme=tokyonight) -->
-
 <div style="display: inline" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroCarreteiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=PedroCarreteiro&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroCarreteiro&theme=nightowl&hide_border=true&short_numbers=true" alt="GitHub Streak" width="685"/>
-<!--   <img src = "https://nirzak-streak-stats.vercel.app/?user=PedroCarreteiro&theme=codeSTACKr&hide_border=false" height = 163/> -->
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=PedroAugustoPadovani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroCarreteiro&radius=16&theme=nightowl&area=true&order=5&hide_border=true&hide_title=true" width="685" alt="activity-graph graph"  />
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroCarreteiro/PedroCarreteiro/output/github-contribution-grid-snake-dark.svg" width="685" alt="Snake">
+  <!--<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroCarreteiro/PedroCarreteiro/output/pacman-contribution-graph.svg">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PedroCarreteiro" alt="PedroCarreteiro" /></a> </p> -->
 </div>
 
 
