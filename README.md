@@ -62,7 +62,7 @@
 
 <br>
 
-<div style="display: inline" align="center">
+<div style="display: inline">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroCarreteiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=nightowl&hide_border=true&order=2" height="157" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=PedroCarreteiro&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="157" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroCarreteiro&theme=nightowl&hide_border=true&short_numbers=true" alt="GitHub Streak" width="685"/>
