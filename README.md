@@ -2,6 +2,8 @@
 
 ### Thanks for viewing my profile!
 
+<img src="Video.gif">
+
 
 <!--**PedroAugustoPadovani/PedroAugustoPadovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
