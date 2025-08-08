@@ -14,38 +14,28 @@
   <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>Back-End Languages</h3>
     <p>
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+      <img src="https://skillicons.dev/icons?i=python,cs,java,php"/>
     </p>
   </div>
 
   <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>Back-End Frameworks</h3>
     <p>
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+      <img src="https://skillicons.dev/icons?i=fastapi,dotnet,spring,django"/>
     </p>
   </div>
 
    <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>Front-End Languages</h3>
     <p>
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript" />
     </p>
   </div>
 
   <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>Database</h3>
     <p>
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql"/>
     </p>
   </div>
 
@@ -53,7 +43,7 @@
   <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>DevOps</h3>
     <p>
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+      <img src="https://skillicons.dev/icons?i=docker"/>
     </p>
   </div>
 
