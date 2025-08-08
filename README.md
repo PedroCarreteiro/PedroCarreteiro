@@ -14,14 +14,14 @@
   <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>Back-End Languages</h3>
     <p>
-      <img src="https://skillicons.dev/icons?i=python,cs,java,php"/>
+      <img src="https://skillicons.dev/icons?i=python,php,cs,java"/>
     </p>
   </div>
 
   <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>Back-End Frameworks</h3>
     <p>
-      <img src="https://skillicons.dev/icons?i=fastapi,dotnet,spring,django"/>
+      <img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,spring"/>
     </p>
   </div>
 
