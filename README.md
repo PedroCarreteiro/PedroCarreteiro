@@ -32,6 +32,13 @@
     </p>
   </div>
 
+   <div style="flex: 1 1 250px; min-width: 200px;">
+    <h3>Front-End Frameworks</h3>
+    <p>
+      <img src="https://skillicons.dev/icons?i=vue" />
+    </p>
+  </div>
+
   <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>Database</h3>
     <p>
