@@ -40,7 +40,7 @@
   </div>
 
   <div style="flex: 1 1 250px; min-width: 200px;">
-    <h3>Database</h3>
+    <h3>Databases</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql"/>
     </p>
