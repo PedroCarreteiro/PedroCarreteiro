@@ -36,6 +36,7 @@
     <h3>Front-End Frameworks</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=vue" />
+      <img src="https://skillicons.dev/icons?i=react" />
     </p>
   </div>
 
