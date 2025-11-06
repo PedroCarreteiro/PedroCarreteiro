@@ -28,7 +28,7 @@
    <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>Front-End Languages</h3>
     <p>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
     </p>
   </div>
 
