@@ -47,13 +47,14 @@
     </p>
   </div>
 
-
-  <div style="flex: 1 1 250px; min-width: 200px;">
-    <h3>DevOps</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=docker"/>
-    </p>
-  </div>
+  <!--
+    <div style="flex: 1 1 250px; min-width: 200px;">
+      <h3>DevOps</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=docker"/>
+      </p>
+    </div>
+  -->
 
 </div>
 
