@@ -21,7 +21,7 @@
   <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>Back-End Frameworks</h3>
     <p>
-      <img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,spring"/>
+      <img src="https://skillicons.dev/icons?i=fastapi,django,spring"/>
     </p>
   </div>
 
