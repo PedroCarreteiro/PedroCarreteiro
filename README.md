@@ -35,7 +35,6 @@
    <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>Front-End Frameworks</h3>
     <p>
-      <img src="https://skillicons.dev/icons?i=vue" />
       <img src="https://skillicons.dev/icons?i=react" />
     </p>
   </div>
@@ -43,7 +42,7 @@
   <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>Databases</h3>
     <p>
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql"/>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
     </p>
   </div>
 
