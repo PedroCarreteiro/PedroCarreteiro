@@ -42,7 +42,7 @@
   <div style="flex: 1 1 250px; min-width: 200px;">
     <h3>Databases</h3>
     <p>
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
     </p>
   </div>
 
